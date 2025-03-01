@@ -21,23 +21,22 @@
    - *We will have a meeting tomorrow.* → Tương lai đơn  
    - *I have completed the project.* → Hiện tại hoàn thành  
 
+### Questions (Câu hỏi)  
 
+### Requests (Yêu cầu)  
 
+### Suggestions (Gợi ý)  
 
+###Polite Expressions (Lịch sự)  
 
-   - Questions (Câu hỏi)  
-   - Requests (Yêu cầu)  
-   - Suggestions (Gợi ý)  
-   - Polite Expressions (Lịch sự)  
-
-1. **Các thì quan trọng (Essential Tenses)**
+## **Các thì quan trọng (Essential Tenses)**
    - Present Simple (Giao tiếp chung)  
    - Present Continuous (Nhiệm vụ đang diễn ra)  
    - Past Simple (Báo cáo sự kiện)  
    - Future Simple (Lên kế hoạch)  
    - Present Perfect (Cập nhật tiến độ)  
 
-2. **Cụm từ quan trọng (Common Expressions)**
+## **Cụm từ quan trọng (Common Expressions)**
    - Making Requests (Yêu cầu: "Could you...?", "Would you mind...?")  
    - Giving Updates (Cập nhật: "So far, we have...", "We are currently...")  
    - Polite Disagreements (Tranh luận lịch sự: "I see your point, but...")  
