@@ -136,9 +136,83 @@ c. **Common Examples (Ví dụ phổ biến về câu khẳng định)**
 
 
 ### 2. Present Continuous (Nhiệm vụ đang diễn ra)  
+
+ a. **Usage (Cách sử dụng thì hiện tại tiếp diễn)**  
+   - **Hành động đang diễn ra (Actions Happening Now):** *"I am working on a project now."*  
+   - **Tình huống tạm thời (Temporary Situations):** *"She is currently studying for an exam."*  
+   - **Kế hoạch trong tương lai gần (Future Plans):** *"We are meeting with the client tomorrow."*  
+   - **Sự thay đổi (Changing Situations):** *"Technology is evolving rapidly."*  
+
+ b. **Sentence Structure (Cấu trúc câu)**  
+   - **Câu khẳng định:** *S + am/is/are + V-ing* → *"She is reading a book."*  
+   - **Câu phủ định:** *S + am/is/are + not + V-ing* → *"They are not working right now."*  
+   - **Câu hỏi:** *Am/Is/Are + S + V-ing?* → *"Are you listening to me?"*  
+
+ c. **Common Examples (Ví dụ phổ biến)**  
+   - *"I am working on a project now."* → Hành động đang diễn ra  
+   - *"She is currently studying for an exam."* → Tình huống tạm thời  
+   - *"We are meeting with the client tomorrow."* → Kế hoạch trong tương lai gần  
+   - *"Technology is evolving rapidly."* → Sự thay đổi  
+
 ### 3. Past Simple (Báo cáo sự kiện)  
+
+ a. **Usage (Cách sử dụng thì quá khứ đơn)**  
+   - **Hành động đã hoàn thành (Completed Actions):** *"She completed the report yesterday."*  
+   - **Thời điểm cụ thể trong quá khứ (Specific Time in the Past):** *"We met the client last week."*  
+   - **Thói quen trong quá khứ (Past Habits):** *"He used to play football every weekend."*  
+   - **Sự kiện lịch sử (Historical Events):** *"The company was founded in 1990."*  
+
+ b. **Sentence Structure (Cấu trúc câu)**  
+   - **Câu khẳng định:** *S + V2/ed* → *"She finished the project."*  
+   - **Câu phủ định:** *S + did not + V* → *"He did not attend the meeting."*  
+   - **Câu hỏi:** *Did + S + V?* → *"Did you call the client?"*  
+
+ c. **Common Examples (Ví dụ phổ biến)**  
+   - *"She completed the report yesterday."* → Hành động đã hoàn thành  
+   - *"We met the client last week."* → Thời điểm cụ thể trong quá khứ  
+   - *"He used to play football every weekend."* → Thói quen trong quá khứ  
+   - *"The company was founded in 1990."* → Sự kiện lịch sử  
+
 ### 4. Future Simple (Lên kế hoạch)  
+
+ a. **Usage (Cách sử dụng thì tương lai đơn)**  
+   - **Quyết định tức thời (Decisions Made at the Moment):** *"I will call you after the meeting."*  
+   - **Dự đoán tương lai (Future Predictions):** *"She will probably arrive late."*  
+   - **Lời hứa & Đề nghị (Promises & Offers):** *"I promise I will help you with your task."*  
+   - **Kế hoạch trong tương lai (Future Plans & Schedules):** *"We will have a team meeting next Monday."*  
+
+ b. **Sentence Structure (Cấu trúc câu)**  
+   - **Câu khẳng định:** *S + will + V* → *"She will finish the report soon."*  
+   - **Câu phủ định:** *S + will not (won't) + V* → *"He won’t be available tomorrow."*  
+   - **Câu hỏi:** *Will + S + V?* → *"Will you attend the meeting?"*  
+
+ c. **Common Examples (Ví dụ phổ biến)**  
+   - *"I will call you after the meeting."* → Quyết định tức thời  
+   - *"She will probably arrive late."* → Dự đoán tương lai  
+   - *"I promise I will help you with your task."* → Lời hứa & Đề nghị  
+   - *"We will have a team meeting next Monday."* → Kế hoạch trong tương lai  
+
+
 ### 5. Present Perfect (Cập nhật tiến độ)  
+
+
+ a. **Usage (Cách sử dụng thì hiện tại hoàn thành)**  
+   - **Hành động mới hoàn thành (Recent Completed Actions):** *"She has just submitted the report."*  
+   - **Cập nhật tiến độ công việc (Progress Updates):** *"We have completed 80% of the project."*  
+   - **Kinh nghiệm đã có (Experiences):** *"I have worked with this client before."*  
+   - **Hành động không có thời gian cụ thể (Unspecified Time Actions):** *"The team has not finished the task yet."*  
+
+ b. **Sentence Structure (Cấu trúc câu)**  
+   - **Câu khẳng định:** *S + have/has + V3/ed* → *"They have finished the project."*  
+   - **Câu phủ định:** *S + have/has not + V3/ed* → *"She has not completed her task yet."*  
+   - **Câu hỏi:** *Have/Has + S + V3/ed?* → *"Have you checked the report?"*  
+
+ c. **Common Examples (Ví dụ phổ biến)**  
+   - *"We have completed 80% of the project."* → Cập nhật tiến độ  
+   - *"She has just submitted the report."* → Hành động mới hoàn thành  
+   - *"I have worked with this client before."* → Kinh nghiệm đã có  
+   - *"The team has not finished the task yet."* → Hành động chưa hoàn thành  
+
 
 ## **Cụm từ quan trọng (Common Expressions)**
    - Making Requests (Yêu cầu: "Could you...?", "Would you mind...?")  
