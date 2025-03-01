@@ -2,24 +2,24 @@
 ## **Loại câu (Sentence Types)**
 ### 1. Statements (Câu khẳng định)
 
-a. **Types of Statements (Các loại câu khẳng định)**  
-   - Câu chung (General Statements)  
-   - Câu liên quan đến công việc (Work-Related Statements)  
-   - Câu bày tỏ ý kiến (Opinion Statements)  
-
-b. **Essential Tenses (Các thì quan trọng trong câu khẳng định)**  
-   - Hiện tại đơn (Present Simple) – Sự thật, thói quen  
-   - Hiện tại tiếp diễn (Present Continuous) – Hành động đang diễn ra  
-   - Quá khứ đơn (Past Simple) – Hành động đã hoàn thành  
-   - Tương lai đơn (Future Simple) – Kế hoạch, dự đoán  
-   - Hiện tại hoàn thành (Present Perfect) – Trải nghiệm, kết quả  
-
-c. **Common Examples (Ví dụ phổ biến về câu khẳng định)**  
-   - *I work at a tech company.* → Hiện tại đơn  
-   - *We are currently developing a new product.* → Hiện tại tiếp diễn  
-   - *She finished the report yesterday.* → Quá khứ đơn  
-   - *We will have a meeting tomorrow.* → Tương lai đơn  
-   - *I have completed the project.* → Hiện tại hoàn thành  
+      a. **Types of Statements (Các loại câu khẳng định)**  
+         - Câu chung (General Statements)  
+         - Câu liên quan đến công việc (Work-Related Statements)  
+         - Câu bày tỏ ý kiến (Opinion Statements)  
+      
+      b. **Essential Tenses (Các thì quan trọng trong câu khẳng định)**  
+         - Hiện tại đơn (Present Simple) – Sự thật, thói quen  
+         - Hiện tại tiếp diễn (Present Continuous) – Hành động đang diễn ra  
+         - Quá khứ đơn (Past Simple) – Hành động đã hoàn thành  
+         - Tương lai đơn (Future Simple) – Kế hoạch, dự đoán  
+         - Hiện tại hoàn thành (Present Perfect) – Trải nghiệm, kết quả  
+      
+      c. **Common Examples (Ví dụ phổ biến về câu khẳng định)**  
+         - *I work at a tech company.* → Hiện tại đơn  
+         - *We are currently developing a new product.* → Hiện tại tiếp diễn  
+         - *She finished the report yesterday.* → Quá khứ đơn  
+         - *We will have a meeting tomorrow.* → Tương lai đơn  
+         - *I have completed the project.* → Hiện tại hoàn thành  
 
 ### 2. Questions (Câu hỏi)  
 
