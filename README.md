@@ -67,14 +67,78 @@ c. **Common Examples (Ví dụ phổ biến về câu khẳng định)**
 
 ### 4. Suggestions (Gợi ý)  
 
+ a. **Types of Suggestions (Loại gợi ý)**  
+   - **Gợi ý trực tiếp (Direct Suggestions):** *"Let's have a team meeting."*  
+   - **Gợi ý lịch sự (Polite Suggestions):** *"How about trying a new approach?"*  
+   - **Gợi ý gián tiếp (Indirect Suggestions):** *"You might want to consider this option."*  
+   - **Gợi ý trong nhóm (Group Discussions):** *"Shall we discuss this later?"*  
+
+ b. **Essential Tenses (Các thì quan trọng trong gợi ý)**  
+   - **Hiện tại đơn (Present Simple)** – Gợi ý chung → *"We need to improve our process."*  
+   - **Động từ khuyết thiếu (Modal Verbs: Should, Could, Might)** – Gợi ý lịch sự → *"You should try a different strategy."*  
+   - **Tương lai đơn (Future Simple)** – Lập kế hoạch, đề xuất → *"We will review this option next week."*  
+
+ c. **Common Examples (Ví dụ phổ biến)**  
+   - *"Let's have a team meeting."* → Gợi ý trực tiếp  
+   - *"How about trying a new approach?"* → Gợi ý lịch sự  
+   - *"You might want to consider this option."* → Gợi ý gián tiếp  
+   - *"Shall we discuss this later?"* → Gợi ý trong nhóm  
+   - *"What if we changed the strategy?"* → Đề xuất thay đổi  
+
+
 ### 5. Polite Expressions (Lịch sự)  
 
+ a. **Types of Polite Expressions (Các loại diễn đạt lịch sự)**  
+   - **Yêu cầu lịch sự (Making Requests):** *"Could you help me with this task?"*  
+   - **Đưa ra gợi ý (Giving Suggestions):** *"How about we discuss this later?"*  
+   - **Bày tỏ sự biết ơn (Expressing Gratitude):** *"Thank you for your support!"*  
+   - **Xin lỗi (Apologizing):** *"I'm sorry for the misunderstanding."*  
+   - **Phản đối lịch sự (Disagreeing Politely):** *"I see your point, but I have a different perspective."*  
+
+ b. **Essential Structures (Cấu trúc quan trọng)**  
+   - **Yêu cầu lịch sự:** *"Could you...? / Would you mind...?"*  
+   - **Gợi ý nhẹ nhàng:** *"How about...? / Perhaps we could...?"*  
+   - **Bày tỏ sự biết ơn:** *"Thank you for... / I really appreciate..."*  
+   - **Xin lỗi:** *"I'm sorry for... / I apologize for..."*  
+   - **Phản đối lịch sự:** *"I see your point, but... / I understand, however..."*  
+
+ c. **Common Examples (Ví dụ phổ biến)**  
+   - *"Could you help me with this report?"* → Yêu cầu lịch sự  
+   - *"How about we discuss this later?"* → Gợi ý nhẹ nhàng  
+   - *"Thank you for your support!"* → Bày tỏ sự biết ơn  
+   - *"I'm sorry for the misunderstanding."* → Xin lỗi  
+   - *"I see your point, but I have a different perspective."* → Phản đối lịch sự  
+
+
 ## **Các thì quan trọng (Essential Tenses)**
-   - Present Simple (Giao tiếp chung)  
-   - Present Continuous (Nhiệm vụ đang diễn ra)  
-   - Past Simple (Báo cáo sự kiện)  
-   - Future Simple (Lên kế hoạch)  
-   - Present Perfect (Cập nhật tiến độ)  
+### 1. Present Simple (Giao tiếp chung)  
+
+ a. **Usage (Cách sử dụng thì hiện tại đơn)**  
+   - **Sự thật hiển nhiên (General Facts):** *"The sun rises in the east."*  
+   - **Thói quen (Habits & Routines):** *"She goes to work at 8 AM every day."*  
+   - **Lịch trình cố định (Schedules):** *"The train leaves at 6 PM."*  
+   - **Hướng dẫn (Instructions):** *"Press the button to start the machine."*  
+   - **Ý kiến & Sở thích (Opinions & Preferences):** *"I like coffee but he prefers tea."*  
+
+ b. **Sentence Structure (Cấu trúc câu)**  
+   - **Câu khẳng định:** *S + V(s/es)* → *"She works in an office."*  
+   - **Câu phủ định:** *S + do/does not + V* → *"He does not like spicy food."*  
+   - **Câu hỏi:** *Do/Does + S + V?* → *"Do you speak English?"*  
+
+ c. **Common Examples (Ví dụ phổ biến)**  
+   - *"The sun rises in the east."* → Sự thật hiển nhiên  
+   - *"She goes to work at 8 AM every day."* → Thói quen  
+   - *"The train leaves at 6 PM."* → Lịch trình cố định  
+   - *"Press the button to start the machine."* → Hướng dẫn  
+   - *"I like coffee but he prefers tea."* → Ý kiến, sở thích  
+
+
+
+
+### 2. Present Continuous (Nhiệm vụ đang diễn ra)  
+### 3. Past Simple (Báo cáo sự kiện)  
+### 4. Future Simple (Lên kế hoạch)  
+### 5. Present Perfect (Cập nhật tiến độ)  
 
 ## **Cụm từ quan trọng (Common Expressions)**
    - Making Requests (Yêu cầu: "Could you...?", "Would you mind...?")  
