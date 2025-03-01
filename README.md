@@ -1,4 +1,4 @@
-# 📌 **Sơ đồ Tóm tắt Workplace Communication**  
+# **Workplace Communication**  
 ## **Loại câu (Sentence Types)**
 ### 1. Statements (Câu khẳng định)
 
