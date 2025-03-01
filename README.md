@@ -1,51 +1,46 @@
+# 📌 **Sơ đồ Tóm tắt Workplace Communication**  
+## **Loại câu (Sentence Types)**
+### Statements (Câu khẳng định)
 
-# 📌 **Sơ đồ giao tiếp trong môi trường làm việc bằng tiếng Anh**  
-```mermaid
-graph TD
-    A[Workplace Communication] --> B[Sentence Types]
-    A --> C[Essential Tenses]
-    A --> D[Common Expressions]
+1. **Types of Statements (Các loại câu khẳng định)**  
+   - Câu chung (General Statements)  
+   - Câu liên quan đến công việc (Work-Related Statements)  
+   - Câu bày tỏ ý kiến (Opinion Statements)  
 
-    subgraph Sentence Types
-        B1[Statements - Khẳng định]
-        B2[Questions - Câu hỏi]
-        B3[Requests - Yêu cầu]
-        B4[Suggestions - Gợi ý]
-        B5[Polite Expressions - Lịch sự]
-        
-        B --> B1
-        B --> B2
-        B --> B3
-        B --> B4
-        B --> B5
-    end
+2. **Essential Tenses (Các thì quan trọng trong câu khẳng định)**  
+   - Hiện tại đơn (Present Simple) – Sự thật, thói quen  
+   - Hiện tại tiếp diễn (Present Continuous) – Hành động đang diễn ra  
+   - Quá khứ đơn (Past Simple) – Hành động đã hoàn thành  
+   - Tương lai đơn (Future Simple) – Kế hoạch, dự đoán  
+   - Hiện tại hoàn thành (Present Perfect) – Trải nghiệm, kết quả  
 
-    subgraph Essential Tenses
-        C1[Present Simple - General Communication]
-        C2[Present Continuous - Ongoing Tasks]
-        C3[Past Simple - Reporting Events]
-        C4[Future Simple - Planning]
-        C5[Present Perfect - Project Updates]
-        
-        C --> C1
-        C --> C2
-        C --> C3
-        C --> C4
-        C --> C5
-    end
+3. **Common Examples (Ví dụ phổ biến về câu khẳng định)**  
+   - *I work at a tech company.* → Hiện tại đơn  
+   - *We are currently developing a new product.* → Hiện tại tiếp diễn  
+   - *She finished the report yesterday.* → Quá khứ đơn  
+   - *We will have a meeting tomorrow.* → Tương lai đơn  
+   - *I have completed the project.* → Hiện tại hoàn thành  
 
-    subgraph Common Expressions
-        D1[Making Requests: Could you..., Would you mind...]
-        D2[Giving Updates: So far, we have..., We are currently...]
-        D3[Polite Disagreements: I see your point, but...]
-        D4[Suggestions: How about we..., We might consider...]
-        D5[Clarifications: Could you clarify..., Just to confirm...]
-        
-        D --> D1
-        D --> D2
-        D --> D3
-        D --> D4
-        D --> D5
-    end
-```
+
+
+
+
+   - Questions (Câu hỏi)  
+   - Requests (Yêu cầu)  
+   - Suggestions (Gợi ý)  
+   - Polite Expressions (Lịch sự)  
+
+1. **Các thì quan trọng (Essential Tenses)**
+   - Present Simple (Giao tiếp chung)  
+   - Present Continuous (Nhiệm vụ đang diễn ra)  
+   - Past Simple (Báo cáo sự kiện)  
+   - Future Simple (Lên kế hoạch)  
+   - Present Perfect (Cập nhật tiến độ)  
+
+2. **Cụm từ quan trọng (Common Expressions)**
+   - Making Requests (Yêu cầu: "Could you...?", "Would you mind...?")  
+   - Giving Updates (Cập nhật: "So far, we have...", "We are currently...")  
+   - Polite Disagreements (Tranh luận lịch sự: "I see your point, but...")  
+   - Suggestions (Đề xuất: "How about we...?", "We might consider...")  
+   - Clarifications (Xác nhận: "Could you clarify...?", "Just to confirm...?")  
 
