@@ -46,9 +46,28 @@ c. **Common Examples (Ví dụ phổ biến về câu khẳng định)**
 
 ### 3. Requests (Yêu cầu)  
 
+ a. **Types of Requests (Loại yêu cầu)**  
+   - **Yêu cầu trực tiếp (Direct Requests):** *"Open the door, please."*  
+   - **Yêu cầu lịch sự (Polite Requests):** *"Could you help me with this task?"*  
+   - **Yêu cầu trang trọng (Formal Requests):** *"Would you mind sending me the report?"*  
+   - **Yêu cầu gián tiếp (Indirect Requests):** *"Is there any chance you could assist me?"*  
+
+ b. **Essential Tenses (Các thì quan trọng trong yêu cầu)**  
+   - **Hiện tại đơn (Present Simple)** – Yêu cầu chung → *"Pass me the document."*  
+   - **Động từ khuyết thiếu (Modal Verbs: Can, Could, Would)** – Yêu cầu lịch sự → *"Could you clarify this point?"*  
+   - **Tương lai đơn (Future Simple)** – Lời hứa, đề nghị → *"Will you send me the details?"*  
+
+ c. **Common Examples (Ví dụ phổ biến)**  
+   - *"Open the door, please."* → Yêu cầu trực tiếp  
+   - *"Could you help me with this task?"* → Yêu cầu lịch sự  
+   - *"Would you mind sending me the report?"* → Yêu cầu trang trọng  
+   - *"May I request an extension for the deadline?"* → Yêu cầu chính thức  
+   - *"Is there any chance you could assist me?"* → Yêu cầu gián tiếp  
+
+
 ### 4. Suggestions (Gợi ý)  
 
-###Polite Expressions (Lịch sự)  
+### 5. Polite Expressions (Lịch sự)  
 
 ## **Các thì quan trọng (Essential Tenses)**
    - Present Simple (Giao tiếp chung)  
