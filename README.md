@@ -2,7 +2,7 @@
 ## **Loại câu (Sentence Types)**
 ### 1. Statements (Câu khẳng định)
 
-- a. **Types of Statements (Các loại câu khẳng định)**  
+ **a. Types of Statements (Các loại câu khẳng định)**  
          - Câu chung (General Statements)  
          - Câu liên quan đến công việc (Work-Related Statements)  
          - Câu bày tỏ ý kiến (Opinion Statements)  
